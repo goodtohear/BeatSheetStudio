@@ -16,3 +16,6 @@
 [submodule "beatsheet/LUFSMeter"]
 	path = beatsheet/LUFSMeter
 	url = git@github.com:goodtohear/LUFSMeter.git
+[submodule "github/LUFSMeter"]
+	path = github/LUFSMeter
+	url = git@github.com:goodtohear/LUFSMeterJUCELib.git
