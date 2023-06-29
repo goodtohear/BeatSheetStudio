@@ -9,7 +9,7 @@ git submodule update
 ```
 
 ## Sub-projects
-
+NB: There's generally a workspace to open.
 ### Video Pencil _(TelestratorApp)_ [➡](VideoPencil) 
 Codebase for [Video Pencil](https://squares.tv/videopencil) and [Video Pencil Camera](https://squares.tv/videopencilcamera).
 
@@ -22,8 +22,6 @@ Contains unified codebase for [Beat Sheet](https://squares.tv/beatsheet) and [Be
 
 ### Shoot [➡](Shoot)
 Codebase for [Shoot Pro Webcam](https://shootpro.app).
-
-**Use the workspace - this uses Cocoapods!**
 
 ### Squares TV [➡](SquaresTV)
 Codebase for squares.tv.
