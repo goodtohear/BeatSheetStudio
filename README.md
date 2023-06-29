@@ -13,7 +13,7 @@ git submodule update
 ### Video Pencil _(TelestratorApp)_ [➡](VideoPencil) 
 Codebase for [Video Pencil](https://squares.tv/videopencil) and [Video Pencil Camera](https://squares.tv/videopencilcamera).
 
-Download the (non-advanced) SDK from https://ndi-develop.go-vip.net/sdk/
+Download the (non-advanced) SDK from https://ndi-develop.go-vip.net/sdk/ ( > 700MB)
 
 Place libndi_ios.a into `telestrator/TelestratorApp/NDIWrapper/NDIWrapper/wrapper/libndi_ios.a`
 
