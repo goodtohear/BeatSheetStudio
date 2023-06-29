@@ -9,6 +9,14 @@ git submodule update
 ```
 
 ## Sub-projects
+
+### Video Pencil _(TelestratorApp)_ [➡](VideoPencil) 
+Codebase for [Video Pencil](https://squares.tv/videopencil) and [Video Pencil Camera](https://squares.tv/videopencilcamera).
+
+Download the (non-advanced) SDK from https://ndi-develop.go-vip.net/sdk/
+
+Place libndi_ios.a into `telestrator/TelestratorApp/NDIWrapper/NDIWrapper/wrapper/libndi_ios.a`
+
 ### Beat Sheet [➡](BeatSheet)
 Contains unified codebase for [Beat Sheet](https://squares.tv/beatsheet) and [Beat Sheet Studio](https://beatsheet.studio). 
 
@@ -16,9 +24,6 @@ Contains unified codebase for [Beat Sheet](https://squares.tv/beatsheet) and [Be
 Codebase for [Shoot Pro Webcam](https://shootpro.app).
 
 **Use the workspace - this uses Cocoapods!**
-
-### Video Pencil [➡](VideoPencil)
-Codebase for [Video Pencil](https://squares.tv/videopencil) and [Video Pencil Camera](https://squares.tv/videopencilcamera).
 
 ### Squares TV [➡](SquaresTV)
 Codebase for squares.tv.

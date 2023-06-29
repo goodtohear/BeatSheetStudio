@@ -7,3 +7,6 @@
 [submodule "beatsheet/BeatSheet"]
 	path = beatsheet/BeatSheet
 	url = git@github.com:goodtohear/BeatSheet
+[submodule "telestrator/Squares-TV-Apps-Shared"]
+	path = telestrator/Squares-TV-Apps-Shared
+	url = git@github.com:goodtohear/Squares-TV-Apps-Shared.git
