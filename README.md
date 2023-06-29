@@ -17,11 +17,19 @@ Download the (non-advanced) SDK from https://ndi-develop.go-vip.net/sdk/ ( > 700
 
 Place libndi_ios.a into `telestrator/TelestratorApp/NDIWrapper/NDIWrapper/wrapper/libndi_ios.a`
 
+#### Targets:
+* _TelestratorApp_ (ios) - Video Pencil iOS App
+* _DesktopApp_ (macos) - Video Pencil Camera Mac App
+
 ### Beat Sheet [➡](BeatSheet)
 Contains unified codebase for [Beat Sheet](https://squares.tv/beatsheet) and [Beat Sheet Studio](https://beatsheet.studio). 
+
+#### Targets:
+* _BeatSheet_: Beat Sheet 
+* _Beat Sheet Studio_: Beat Sheet Studio
 
 ### Shoot [➡](Shoot)
 Codebase for [Shoot Pro Webcam](https://shootpro.app).
 
-### Squares TV [➡](SquaresTV)
-Codebase for squares.tv.
+#### Targets:
+* _Shoot_: Shoot Pro Webcam
