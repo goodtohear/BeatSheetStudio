@@ -4,3 +4,6 @@
 [submodule "telestrator/TelestratorApp"]
 	path = telestrator/TelestratorApp
 	url = git@github.com:goodtohear/TelestratorApp
+[submodule "beatsheet/BeatSheet"]
+	path = beatsheet/BeatSheet
+	url = git@github.com:goodtohear/BeatSheet
