@@ -15,6 +15,8 @@ Contains unified codebase for [Beat Sheet](https://squares.tv/beatsheet) and [Be
 ### Shoot [➡](Shoot)
 Codebase for [Shoot Pro Webcam](https://shootpro.app).
 
+**Use the workspace - this uses Cocoapods!**
+
 ### Video Pencil [➡](VideoPencil)
 Codebase for [Video Pencil](https://squares.tv/videopencil) and [Video Pencil Camera](https://squares.tv/videopencilcamera).
 
