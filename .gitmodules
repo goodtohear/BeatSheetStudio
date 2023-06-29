@@ -1,6 +1,3 @@
-[submodule "BeatSheet"]
-	path = BeatSheet
-	url = git@github.com:goodtohear/BeatSheet
 [submodule "Shoot"]
 	path = Shoot
 	url = git@github.com:goodtohear/Shoot
