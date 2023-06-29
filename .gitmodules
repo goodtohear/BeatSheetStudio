@@ -13,3 +13,6 @@
 [submodule "telestrator/Squares TV Apps Shared"]
 	path = telestrator/Squares TV Apps Shared
 	url = git@github.com:goodtohear/Squares-TV-Apps-Shared.git
+[submodule "beatsheet/LUFSMeter"]
+	path = beatsheet/LUFSMeter
+	url = git@github.com:goodtohear/LUFSMeter.git
