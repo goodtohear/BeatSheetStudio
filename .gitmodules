@@ -19,3 +19,6 @@
 [submodule "github/LUFSMeter"]
 	path = github/LUFSMeter
 	url = git@github.com:goodtohear/LUFSMeterJUCELib.git
+[submodule "github/JUCE"]
+	path = github/JUCE
+	url = git@github.com:juce-framework/JUCE
