@@ -24,3 +24,6 @@ A clear and concise description of what you expected to happen.
 If applicable, add screenshots to help explain your problem.
 
 You can link to the same video from multiple issues (timestamped links would be appreciated!).
+
+## Before you submit
+Does the title of this issue describe the problem? If you have more than one issue in this report (discouraged), then the title should be longer, mentioning every issue included.
