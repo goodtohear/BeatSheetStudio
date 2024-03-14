@@ -22,3 +22,6 @@
 [submodule "github/JUCE"]
 	path = github/JUCE
 	url = git@github.com:juce-framework/JUCE
+[submodule "BeatSheetRenderer"]
+	path = BeatSheetRenderer
+	url = git@github.com:goodtohear/BeatSheetRenderer
