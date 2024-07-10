@@ -8,6 +8,11 @@ git submodule init
 git submodule update
 ```
 
+Make changes within the other projects then make sure this repo has the latest code using 
+```
+git submodule update --init --recursive
+```
+
 ## Sub-projects
 NB: There's generally a workspace to open.
 ### Video Pencil _(TelestratorApp)_ [➡](VideoPencil) 
